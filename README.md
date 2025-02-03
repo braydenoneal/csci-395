@@ -9,3 +9,4 @@ This repository contains the completed assignments for the Applied Projects cour
 ## Assignments
 
 * [Initial Pitch](assignments/initial_pitch#readme)
+* [User Stories](assignments/user_stories#readme)
